@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 #SPDX-FileCopyrightText: 2022 yukihanada
+=======
+
+>>>>>>> dev
 import sys
 
 ans = 0
