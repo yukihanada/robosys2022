@@ -9,12 +9,14 @@
 ## ダウンロード方法
 ```
 $ git clone git@github.com:yukihanada/robosys2022.git
+$ cd robosys2022
 ```
 
 ## plusコマンド
 * 使用例
 ```
 $ seq 5 | ./plus
+15
 ```
 出力結果は15になる.
 
@@ -22,6 +24,7 @@ $ seq 5 | ./plus
 * 使用例
 ```
 $ seq 5 | ./multiply
+120
 ```
 出力結果は120になる.
 
