@@ -2,27 +2,28 @@
 ![test](https://github.com/yukihanada/robosys2022/actions/workflows/test.yml/badge.svg)
 ## コマンド
 * plus
-標準入力から読み込んだ数字を足す.
+  * 標準入力から読み込んだ数字を足す.
 * multiply
-標準入力から読み込んだ数字を掛ける.
+  * 標準入力から読み込んだ数字を掛ける.
 
 ## ダウンロード方法
+```
 $ git clone git@github.com:yukihanada/robosys2022.git
+```
 
 ## plusコマンド
-* 用途
-
 * 使用例
+```
 $ seq 5 | ./plus
-出力
 ```
-15
-```
+出力結果は15になる.
 
-##multiplyコマンド
-* 用途
-
+## multiplyコマンド
 * 使用例
+```
+$ seq 5 | ./multiply
+```
+出力結果は120になる.
 
 ## 必要なソフトウェア
 * Python
