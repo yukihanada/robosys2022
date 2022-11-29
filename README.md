@@ -8,7 +8,7 @@
 
 ## ダウンロード方法
 ```
-git clone git@github.com:yukihanada/robosys2022.git
+git clone https://github.com/yukihanada/robosys2022.git
 ```
 ```
 cd robosys2022
