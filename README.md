@@ -7,10 +7,10 @@
 ## ダウンロード方法
 * ターミナルを開いて、以下のコマンドを実行します.
 ```
-git clone https://github.com/yukihanada/robosys2022.git
+$ git clone https://github.com/yukihanada/robosys2022.git
 ```
 ```
-cd robosys2022
+$ cd robosys2022
 ```
 
 ## plusコマンド
@@ -19,13 +19,13 @@ cd robosys2022
 
 ### 使い方
 ```
-seq n | ./plus
+$ seq n | ./plus
 ```
 * nには任意の値を入力する.
 
 ### 使用例
 ```
-seq 5 | ./plus
+$ seq 5 | ./plus
 ```
 * 出力結果は15になる.
 
@@ -35,13 +35,13 @@ seq 5 | ./plus
 
 ### 使い方
 ```
-seq n | ./multiply
+$ seq n | ./multiply
 ```
 * nには任意の値を入力する.
 
 ### 使用例
 ```
-seq 5 | ./multiply
+$ seq 5 | ./multiply
 ```
 * 出力結果は120になる.
 
