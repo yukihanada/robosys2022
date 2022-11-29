@@ -7,9 +7,11 @@
   * 標準入力から読み込んだ数字を掛ける.
 
 ## ダウンロード方法
+1. ダウンロードしたいディレクトリでリポジトリをクローンする.
 ```
 git clone https://github.com/yukihanada/robosys2022.git
 ```
+2. robosys2022に移動してコマンドを実行する.
 ```
 cd robosys2022
 ```
