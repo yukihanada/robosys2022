@@ -1,6 +1,6 @@
 # robosys2022
 * ロボットシステム学で使用しているリポジトリです.
-* このリポジトリには、plus と multiply が含まれます.
+* このリポジトリには、plus と multiply というコマンドが含まれます.
 
 ![test](https://github.com/yukihanada/robosys2022/actions/workflows/test.yml/badge.svg)
 
